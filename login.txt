@@ -1,0 +1,8 @@
+Create a simple static website and use JavaScript to make API requests + manage version control using Git 
+
+Design and develop a simple static website with multiple HTML pages linked together, ensuring a consistent layout using CSS for styling. Write a JavaScript program that fetches data from a public API (e.g., JSONPlaceholder) and displays the results on a web page, using asynchronous JavaScript (Promises or async/await) to handle the API requests and 
+responses, with error handling and user-friendly error messages. Incorporate basic HTML and CSS to create a user interface for displaying the fetched data. Utilize Git for version control to track changes
+
+
+give a simple program ,explain each step ,use one piece anime as topic
+
