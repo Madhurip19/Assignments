@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Monkey D. Luffy",
+        "email": "luffy@onepiece.com",
+        "role": "Captain"
+    },
+    {
+        "id": 2,
+        "name": "Roronoa Zoro",
+        "email": "zoro@onepiece.com",
+        "role": "Swordsman"
+    },
+    {
+        "id": 3,
+        "name": "Nami",
+        "email": "nami@onepiece.com",
+        "role": "Navigator"
+    }
+]
