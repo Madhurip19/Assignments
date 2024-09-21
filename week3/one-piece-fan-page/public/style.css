@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #111111;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #ad0d0d;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+  }
+  
+  nav a {
+    margin: 0 1em;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  section {
+    margin: 2em;
+    padding: 2em;
+    background-color: #fff;
+    border-radius: 10px;
+  }
+  
+  h2 {
+    color: #0f0f0f;
+  }
+  
+  #characters-list, #episodes-list {
+    margin-top: 1em;
+  }
+  

@@ -1,0 +1,302 @@
+[
+    {
+      "id": 1,
+      "name": "Monkey D. Luffy",
+      "email": "luffy@onepiece.com",
+      "role": "Captain"
+    },
+    {
+      "id": 2,
+      "name": "Roronoa Zoro",
+      "email": "zoro@onepiece.com",
+      "role": "Swordsman"
+    },
+    {
+      "id": 3,
+      "name": "Nami",
+      "email": "nami@onepiece.com",
+      "role": "Navigator"
+    },
+    {
+      "id": 4,
+      "name": "Usopp",
+      "email": "usopp@onepiece.com",
+      "role": "Sniper"
+    },
+    {
+      "id": 5,
+      "name": "Sanji",
+      "email": "sanji@onepiece.com",
+      "role": "Cook"
+    },
+    {
+      "id": 6,
+      "name": "Tony Tony Chopper",
+      "email": "chopper@onepiece.com",
+      "role": "Doctor"
+    },
+    {
+      "id": 7,
+      "name": "Nico Robin",
+      "email": "robin@onepiece.com",
+      "role": "Archaeologist"
+    },
+    {
+      "id": 8,
+      "name": "Franky",
+      "email": "franky@onepiece.com",
+      "role": "Shipwright"
+    },
+    {
+      "id": 9,
+      "name": "Brook",
+      "email": "brook@onepiece.com",
+      "role": "Musician"
+    },
+    {
+      "id": 10,
+      "name": "Jinbe",
+      "email": "jinbe@onepiece.com",
+      "role": "Helmsman"
+    },
+    {
+      "id": 11,
+      "name": "Portgas D. Ace",
+      "email": "ace@onepiece.com",
+      "role": "Fire Fist"
+    },
+    {
+      "id": 12,
+      "name": "Shanks",
+      "email": "shanks@onepiece.com",
+      "role": "Captain"
+    },
+    {
+      "id": 13,
+      "name": "Trafalgar D. Water Law",
+      "email": "law@onepiece.com",
+      "role": "Surgeon"
+    },
+    {
+      "id": 14,
+      "name": "Donquixote Doflamingo",
+      "email": "doflamingo@onepiece.com",
+      "role": "Warlord"
+    },
+    {
+      "id": 15,
+      "name": "Cyborg Franky",
+      "email": "franky@onepiece.com",
+      "role": "Shipwright"
+    },
+    {
+      "id": 16,
+      "name": "Sabo",
+      "email": "sabo@onepiece.com",
+      "role": "Revolutionary"
+    },
+    {
+      "id": 17,
+      "name": "Bartolomeo",
+      "email": "bartolomeo@onepiece.com",
+      "role": "Captain"
+    },
+    {
+      "id": 18,
+      "name": "Kuma",
+      "email": "kuma@onepiece.com",
+      "role": "Warlord"
+    },
+    {
+      "id": 19,
+      "name": "Nefertari Vivi",
+      "email": "vivi@onepiece.com",
+      "role": "Princess"
+    },
+    {
+      "id": 20,
+      "name": "Kozuki Momonosuke",
+      "email": "momonosuke@onepiece.com",
+      "role": "Shogun"
+    },
+    {
+      "id": 21,
+      "name": "Tama",
+      "email": "tama@onepiece.com",
+      "role": "Kozuki"
+    },
+    {
+      "id": 22,
+      "name": "Kin'emon",
+      "email": "kinemon@onepiece.com",
+      "role": "Samurai"
+    },
+    {
+      "id": 23,
+      "name": "Kozuki Oden",
+      "email": "oden@onepiece.com",
+      "role": "Samurai"
+    },
+    {
+      "id": 24,
+      "name": "Marco",
+      "email": "marco@onepiece.com",
+      "role": "Phoenix"
+    },
+    {
+      "id": 25,
+      "name": "Kizaru",
+      "email": "kizaru@onepiece.com",
+      "role": "Admiral"
+    },
+    {
+      "id": 26,
+      "name": "Akainu",
+      "email": "akainu@onepiece.com",
+      "role": "Admiral"
+    },
+    {
+      "id": 27,
+      "name": "Aokiji",
+      "email": "aokiji@onepiece.com",
+      "role": "Admiral"
+    },
+    {
+      "id": 28,
+      "name": "Sengoku",
+      "email": "sengoku@onepiece.com",
+      "role": "Fleet Admiral"
+    },
+    {
+      "id": 29,
+      "name": "Hancock",
+      "email": "hancock@onepiece.com",
+      "role": "Pirate Empress"
+    },
+    {
+      "id": 30,
+      "name": "Shiryu",
+      "email": "shiryu@onepiece.com",
+      "role": "Captain"
+    },
+    {
+      "id": 31,
+      "name": "Crocodile",
+      "email": "crocodile@onepiece.com",
+      "role": "Warlord"
+    },
+    {
+      "id": 32,
+      "name": "Buggy",
+      "email": "buggy@onepiece.com",
+      "role": "Pirate"
+    },
+    {
+      "id": 33,
+      "name": "Franky",
+      "email": "franky@onepiece.com",
+      "role": "Shipwright"
+    },
+    {
+      "id": 34,
+      "name": "Dr. Vegapunk",
+      "email": "vegapunk@onepiece.com",
+      "role": "Scientist"
+    },
+    {
+      "id": 35,
+      "name": "Mihawk",
+      "email": "mihawk@onepiece.com",
+      "role": "Swordsman"
+    },
+    {
+      "id": 36,
+      "name": "Nico Olvia",
+      "email": "olvia@onepiece.com",
+      "role": "Archaeologist"
+    },
+    {
+      "id": 37,
+      "name": "Basil Hawkins",
+      "email": "hawkins@onepiece.com",
+      "role": "Captain"
+    },
+    {
+      "id": 38,
+      "name": "Eustass Kid",
+      "email": "kid@onepiece.com",
+      "role": "Captain"
+    },
+    {
+      "id": 39,
+      "name": "Law",
+      "email": "law@onepiece.com",
+      "role": "Surgeon"
+    },
+    {
+      "id": 40,
+      "name": "Benn Beckman",
+      "email": "benn@onepiece.com",
+      "role": "First Mate"
+    },
+    {
+      "id": 41,
+      "name": "Yasopp",
+      "email": "yasopp@onepiece.com",
+      "role": "Sniper"
+    },
+    {
+      "id": 42,
+      "name": "Uta",
+      "email": "uta@onepiece.com",
+      "role": "Singer"
+    },
+    {
+      "id": 43,
+      "name": "Nefertari Cobra",
+      "email": "cobra@onepiece.com",
+      "role": "King"
+    },
+    {
+      "id": 44,
+      "name": "Garp",
+      "email": "garp@onepiece.com",
+      "role": "Marine"
+    },
+    {
+      "id": 45,
+      "name": "Mikazuki",
+      "email": "mikazuki@onepiece.com",
+      "role": "Pirate"
+    },
+    {
+      "id": 46,
+      "name": "Don Krieg",
+      "email": "krieg@onepiece.com",
+      "role": "Pirate"
+    },
+    {
+      "id": 47,
+      "name": "Kuro",
+      "email": "kuro@onepiece.com",
+      "role": "Pirate"
+    },
+    {
+      "id": 48,
+      "name": "Wanze",
+      "email": "wanze@onepiece.com",
+      "role": "Chef"
+    },
+    {
+      "id": 49,
+      "name": "Fukurokuju",
+      "email": "fukurokuju@onepiece.com",
+      "role": "Ninja"
+    },
+    {
+      "id": 50,
+      "name": "Kanjuro",
+      "email": "kanjuro@onepiece.com",
+      "role": "Artist"
+    }
+]  
